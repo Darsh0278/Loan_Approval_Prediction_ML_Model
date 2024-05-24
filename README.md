@@ -1,2 +1,2 @@
-# Major-ML-Projects
-## Precise ML Projects 
+# Loan Approval Prediction
+## Precise ML Project
